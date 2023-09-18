@@ -1,0 +1,35 @@
+body{
+background-color: Black;
+color: white;
+font-family: Georgia, "Times New Roman", serif;
+margin: 10px ;
+text-transform: none;
+}
+p{
+background-color: black;
+color: #FFFFF;
+font-family: Georgia, "Times New Roman", serif;
+margin: 10px ;
+text-transform: none;
+}
+h1{
+background-color: black;
+color: rgb(0,255,0);
+font-family: Georgia, "Times New Roman", serif;
+margin: 10px ;
+text-transform: none;
+}
+h2{
+background-color: black;
+color: hsl(0, .14%, 1.00%, .50);
+font-family: Georgia, "Times New Roman", serif;
+margin: 10px ;
+text-transform: none;
+}
+li{
+background-color: black;
+color: #F0b ;
+font-family: Georgia, "Times New Roman", serif;
+margin: 50px ;
+text-transform: none;
+}
